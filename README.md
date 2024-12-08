@@ -25,7 +25,8 @@ Hybird Pagination is a modern, lightweight PHP library for generating paginated 
 ## Usage
 Here’s a basic example:
 
-```php
+```
+php
 require __DIR__ . '/vendor/autoload.php';
 
 use HybridMind\Pagination;
